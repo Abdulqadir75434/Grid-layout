@@ -9,7 +9,7 @@ body{
 .grid-container{
     /* border: 1px solid black; */
     padding: 20px;
-    margin: 20px;
+    margin: 50px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr; 
     grid-template-rows: 100px 100px 100px;
